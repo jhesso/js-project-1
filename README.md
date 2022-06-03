@@ -2,6 +2,7 @@
 Brainnest Front end development industry training JS project #1
 
 this is a very simple 🪨 📰 ✂️ game played through the console.
+link to the website: https://jhesso.github.io/js-project-1/
 
 ## How to play:
 
