@@ -11,3 +11,5 @@ link to the website: https://jhesso.github.io/js-project-1/
 3. when prompted. type either rock, paper or scissors.
 4. ...
 5. profit ✔️
+
+to play again. just refresh the page
